@@ -1,0 +1,4 @@
+<?php
+    require ('maxvalue.php');
+
+?>
